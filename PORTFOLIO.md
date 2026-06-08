@@ -123,8 +123,9 @@ https://www.mql5.com/en/code/39860
 
 ### Manual Position Tracking Panel
 The panel sorts BUY positions in ascending order and SELL positions in price order. The sorted positions are displayed in the panel: a maximum of five BUY and five SELL positions.
-![Manual Position Tracking Panel](images/2021-09-13_07h08_26.png)
-
+<p align="center">
+  <img src="images/2021-09-13_07h08_26.png">
+</p>
 https://www.mql5.com/en/code/36412
 
 ## Close panel
@@ -135,7 +136,9 @@ https://www.mql5.com/en/code/23450
 
 ### MACD Four Colors Arrow
 Continuation of the 'Four Colors' series - now the MACD indicator signals are displayed as 'Arrow' in the main window.
-![MACD Four Colors Arrow](MACD_Four_Colors_Arrow__1.png)
+<p align="center">
+  <img src="images/MACD_Four_Colors_Arrow__1.png">
+</p>
 https://www.mql5.com/en/code/39821
 
 ### Open Interest
