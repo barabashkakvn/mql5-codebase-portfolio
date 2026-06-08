@@ -8,6 +8,8 @@ I started developing for MetaTrader more than 13 years ago and have spent most o
 
 This document is not a complete list of my work. That would be impossible because there are simply too many projects. Instead, this is a brief overview of what I have been building over the years.
 
+My Achievements on the en part of the forum can be viewed here https://www.mql5.com/en/users/barabashkakvn/publications
+
 ---
 
 # What I Like to Build
