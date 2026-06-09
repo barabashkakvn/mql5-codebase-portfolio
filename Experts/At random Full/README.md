@@ -6,6 +6,12 @@ Despite its humorous origin, the project evolved into a complete trading example
 
 It demonstrates many core building blocks commonly used in automated trading systems.
 
+### Screenshot
+
+<p align="center">
+  <img src="screenshot.png" width="600">
+</p>
+
 ### Link
 
 - [MQL5 CodeBase](https://www.mql5.com/en/code/39848)
