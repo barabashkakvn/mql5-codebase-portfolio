@@ -14,6 +14,5 @@ The project is accompanied by a detailed article explaining the architecture, de
 
 ### Links
 
-**MQL5 CodeBase:** https://www.mql5.com/ru/code/37813
-
-**Article:** https://www.mql5.com/en/articles/9717
+- [MQL5 CodeBase](https://www.mql5.com/ru/code/37813)
+- [Article: Trading Engine 4](https://www.mql5.com/en/articles/9717)
